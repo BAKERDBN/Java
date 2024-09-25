@@ -1,5 +1,5 @@
 class Carro extends Veiculo {
-    
+
     private int numeroDePortas;
 
     public Carro(String marcaVeiculo, String modeloVeiculo, int numeroDePortas ,int anoVeiculo) {

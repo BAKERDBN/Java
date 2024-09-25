@@ -9,6 +9,5 @@ public class Main {
         Moto m = new Moto("Honda", "XRE-300", 2023, "seca suvaco");
         System.out.println("Detalhes do veiculo");
         m.exibirDetalhes();
-
     }
 }
